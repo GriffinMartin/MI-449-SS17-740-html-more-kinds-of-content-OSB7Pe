@@ -1,0 +1,22 @@
+.header {
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+.small-centered {
+  text-align: center;
+}
+.th-center {
+  text-align: center;
+}
+.td-yes {
+  color: green;
+}
+.td-no {
+  color: red;
+}
+.content {
+  padding-top: 50px; 
+}
+.about {
+  font-size: 22px;
+}
